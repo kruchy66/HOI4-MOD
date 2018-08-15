@@ -1,0 +1,15 @@
+bookmarks = {
+	bookmark = {
+		name = "TEST4_NAME"
+		desc = "TEST4_DESC"
+		date = 1914.5.1.1
+		picture = "GFX_Test4"
+		default_country = "USA"
+		default = yes
+		USA = {}
+		POL = {}
+		ANG = {}
+		JAP = {}
+		randomize_weather = 12345
+		}
+}
